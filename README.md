@@ -4,6 +4,10 @@ This repository cotains a sample AngularJS app for redendering arced lines on a 
 
 [Live Demo](https://vkw2md-4200.csb.app/)
 
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/0e85fbe3-389e-46ff-84ea-fd733c9f1d92" />
+
+
+
 ## Usage
 
 First, add your Radar Publishable API Key to the code where it says `YOUR_RADAR_API_KEY_HERE`
